@@ -1,0 +1,23 @@
+Determining if the function pcap_get_pfring_id exists failed with the following output:
+Change Dir: /home/cytos/Code/UdpFlow/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8675f/fast"
+make[1]: Entering directory '/home/cytos/Code/UdpFlow/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_8675f.dir/build.make CMakeFiles/cmTC_8675f.dir/build
+make[2]: Entering directory '/home/cytos/Code/UdpFlow/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8675f.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pcap_get_pfring_id   -o CMakeFiles/cmTC_8675f.dir/CheckFunctionExists.c.o   -c /opt/clion-2018.3.1/bin/cmake/linux/share/cmake-3.13/Modules/CheckFunctionExists.c
+Linking C executable cmTC_8675f
+/opt/clion-2018.3.1/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8675f.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pcap_get_pfring_id    CMakeFiles/cmTC_8675f.dir/CheckFunctionExists.c.o  -o cmTC_8675f /usr/lib/x86_64-linux-gnu/libpcap.so 
+CMakeFiles/cmTC_8675f.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x10): undefined reference to `pcap_get_pfring_id'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_8675f.dir/build.make:87: recipe for target 'cmTC_8675f' failed
+make[2]: *** [cmTC_8675f] Error 1
+make[2]: Leaving directory '/home/cytos/Code/UdpFlow/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_8675f/fast' failed
+make[1]: *** [cmTC_8675f/fast] Error 2
+make[1]: Leaving directory '/home/cytos/Code/UdpFlow/CMakeFiles/CMakeTmp'
+
+

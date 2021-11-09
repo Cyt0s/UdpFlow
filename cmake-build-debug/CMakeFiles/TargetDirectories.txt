@@ -1,3 +1,0 @@
-/home/cytos/Code/UdpFlow/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/cytos/Code/UdpFlow/cmake-build-debug/CMakeFiles/UdpFlow.dir
-/home/cytos/Code/UdpFlow/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -4,14 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/cytos/Code/UdpFlow/main.c" "/home/cytos/Code/UdpFlow/CMakeFiles/UdpFlow.dir/main.c.o"
-  "/home/cytos/Code/UdpFlow/orchestrator.c" "/home/cytos/Code/UdpFlow/CMakeFiles/UdpFlow.dir/orchestrator.c.o"
-  "/home/cytos/Code/UdpFlow/pcap_processing/data_types/session_data.c" "/home/cytos/Code/UdpFlow/CMakeFiles/UdpFlow.dir/pcap_processing/data_types/session_data.c.o"
-  "/home/cytos/Code/UdpFlow/pcap_processing/data_types/session_metadata.c" "/home/cytos/Code/UdpFlow/CMakeFiles/UdpFlow.dir/pcap_processing/data_types/session_metadata.c.o"
-  "/home/cytos/Code/UdpFlow/pcap_processing/output_methods/file_operations.c" "/home/cytos/Code/UdpFlow/CMakeFiles/UdpFlow.dir/pcap_processing/output_methods/file_operations.c.o"
-  "/home/cytos/Code/UdpFlow/pcap_processing/output_methods/json_output.c" "/home/cytos/Code/UdpFlow/CMakeFiles/UdpFlow.dir/pcap_processing/output_methods/json_output.c.o"
-  "/home/cytos/Code/UdpFlow/pcap_processing/wrappers/netinet_wrapper.c" "/home/cytos/Code/UdpFlow/CMakeFiles/UdpFlow.dir/pcap_processing/wrappers/netinet_wrapper.c.o"
-  "/home/cytos/Code/UdpFlow/pcap_processing/wrappers/pcap_wrapper.c" "/home/cytos/Code/UdpFlow/CMakeFiles/UdpFlow.dir/pcap_processing/wrappers/pcap_wrapper.c.o"
+  "/home/cytos/Code/udpFlowgit/UdpFlow/main.c" "/home/cytos/Code/udpFlowgit/UdpFlow/CMakeFiles/UdpFlow.dir/main.c.o"
+  "/home/cytos/Code/udpFlowgit/UdpFlow/orchestrator.c" "/home/cytos/Code/udpFlowgit/UdpFlow/CMakeFiles/UdpFlow.dir/orchestrator.c.o"
+  "/home/cytos/Code/udpFlowgit/UdpFlow/pcap_processing/data_types/session_data.c" "/home/cytos/Code/udpFlowgit/UdpFlow/CMakeFiles/UdpFlow.dir/pcap_processing/data_types/session_data.c.o"
+  "/home/cytos/Code/udpFlowgit/UdpFlow/pcap_processing/data_types/session_metadata.c" "/home/cytos/Code/udpFlowgit/UdpFlow/CMakeFiles/UdpFlow.dir/pcap_processing/data_types/session_metadata.c.o"
+  "/home/cytos/Code/udpFlowgit/UdpFlow/pcap_processing/output_methods/file_operations.c" "/home/cytos/Code/udpFlowgit/UdpFlow/CMakeFiles/UdpFlow.dir/pcap_processing/output_methods/file_operations.c.o"
+  "/home/cytos/Code/udpFlowgit/UdpFlow/pcap_processing/output_methods/json_output.c" "/home/cytos/Code/udpFlowgit/UdpFlow/CMakeFiles/UdpFlow.dir/pcap_processing/output_methods/json_output.c.o"
+  "/home/cytos/Code/udpFlowgit/UdpFlow/pcap_processing/wrappers/netinet_wrapper.c" "/home/cytos/Code/udpFlowgit/UdpFlow/CMakeFiles/UdpFlow.dir/pcap_processing/wrappers/netinet_wrapper.c.o"
+  "/home/cytos/Code/udpFlowgit/UdpFlow/pcap_processing/wrappers/pcap_wrapper.c" "/home/cytos/Code/udpFlowgit/UdpFlow/CMakeFiles/UdpFlow.dir/pcap_processing/wrappers/pcap_wrapper.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

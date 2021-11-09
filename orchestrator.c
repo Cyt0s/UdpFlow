@@ -176,7 +176,6 @@ int parse_the_first_packet(struct pcap_pkthdr *pcap_header,u_char *packet,struct
     metadata->dst_port = ntohs(udp_header->uh_dport);
     sprintf(metadata->type,"udp");
 
-    sort_ips_and_ports(metadata);
 
     res = UDPFLOW_SUCCESS;
 
